@@ -15,4 +15,6 @@
 //
 //  }
 
+let timeblocks = [{hour:12,description:"I have a meeting"}, {hour:13,description:""},{hour:14,description:""},{hour:15,description:""},{hour:16,description:""},{hour:17,description:""}];
+
 
